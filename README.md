@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Heather
-- 👀 I’m interested in ... video games
-- 🌱 I’m currently learning ... python
+yippee
 
 <!---
 heatherb24/heatherb24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
